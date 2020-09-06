@@ -1,0 +1,9 @@
+{
+  "name": "clojurescript-start-for-browser",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.11.1"
+  },
+  "dependencies": {}
+}
